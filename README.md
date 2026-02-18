@@ -1,3 +1,23 @@
+Note - To run this project using docker compose, follow the below steps.
+
+Switch to the compose branch to learn the
+
+Implementation of Dockerfile for client and server.
+Run the containers using Docker Compose.
+Run it local without Docker
+Prerequisite
+Install npm
+Start Server:
+cd mern/server
+npm install
+npm start
+Start Client
+cd mern/client
+npm install
+npm run dev
+<img width="1362" height="720" alt="image" src="https://github.com/user-attachments/assets/764f9734-abc2-4f4f-8593-dfbd932bd098" />
+
+
 # A simple MERN stack application 
 
 ### Create a network for the docker containers
